@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+  }
+  
+  .ortala2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    text-align: left;
+  }
+
+
+body {
+    background-color:#EEEEEE;
+  }
+h1,h2,h3,h4,h5,h6 {
+    font-size: 34px;
+    color: #4A55A2;
+}
+p {
+    font-size: 26px;
+    color: #FF3FA4;
+}
+ul {
+    font-size: 20px;
+    list-style-position: inside;
+}
+
+ol {
+    font-size: 20px;
+    list-style: inside;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
